@@ -1,0 +1,7 @@
+name: dbt_pkg_upstream
+version: '1.0.0'
+config-version: 2
+model-paths: ["models"]
+models:
+  dbt_pkg_upstream:
+    +schema: upstream
