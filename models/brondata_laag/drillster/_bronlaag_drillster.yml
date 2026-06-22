@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: drillster_group_objectives
+  - name: group_objectives
     description: "Consumption group objectives (work in progress)"
     columns:
       - name: id
