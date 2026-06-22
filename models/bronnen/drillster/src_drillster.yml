@@ -1,1 +1,7 @@
+version: 2
 
+sources:
+  - name: bron_drillster
+    tables:
+      - name: group_objectives
+        description: "Raw group objectives source table"
