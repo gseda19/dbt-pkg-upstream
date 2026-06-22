@@ -3,4 +3,4 @@ SELECT
     id,
     group_name,
     objective
-FROM {{ ref('group_objectives') }}
+FROM {{ ref('raw_group_objectives') }}
